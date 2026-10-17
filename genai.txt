@@ -1,0 +1,1 @@
+In this project we will use genai, and  make it more valuable and realtime
